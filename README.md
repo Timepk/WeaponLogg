@@ -50,8 +50,9 @@ When approving a deviation (avvik), the responsible person must enter a password
 Screenshots are available in the `assets/screenshots/` folder.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under License.
 
 ## Author
 [Stephen Olaussen]
 //updated 05.10.2025
+
