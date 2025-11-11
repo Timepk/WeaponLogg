@@ -1,7 +1,7 @@
 const CACHE_NAME = "timepk-cache-v5.12";
 
 const ASSETS = [
-  "index.html", // bytt til "timepk.html" hvis det er den du bruker
+  "index.html", 
   "style.css",
   "app.js",
   "manifest.json",
